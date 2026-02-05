@@ -1,2 +1,2 @@
 # demo
-1st git repo
+1st Git repo
